@@ -1,0 +1,10 @@
+Pop This_Tour_supported_his_third_studio_album. 2017 75.9 5 Ed_Sheeran Tour England 15
+Rock This_Tour_supported_their_No_Line_on_the_Horizon_album. 2010 85.3 6.4 U2 U2_360_Tour The_USA 17
+Hard_Rock The_tour_was_honored_at_the_Billboard_Live_Music_Awards_in_2017. 2017 65.7 6.5 Guns_N_Roses Not_in_This_Lifetime_Tour The_USA 19
+Rock There_were_five_different_ticket_options_at_each_concert_in_the_USA. 2006 78.6 5.7 The_Rolling_Stones A_Bigger_Bang_Tour The_USA 20
+Pop The_Tour_boasted_extensive_laser_light_and_pyrotechnic_visuals. 2017 94.8 6.2 Coldplay A_Head_Full_of_Dreams_Tour England 23
+Rock Waters_a_pacifist_incorporated_an_increased_emphasis_on_the_shows_anti_war_message. 2012 86.5 4.7 Roger_Waters The_Wall_Live Germany 18
+Heavy_metal This_concert_supports_their_tenth_studio_album_Hardwired_to_Self_Destruct. 2017 98.7 5.8 Metallica WorldWired_Tour The_USA 19
+Pop This_concert_promoted_her_eleventh_studio_album_Hard_Candy. 2009 85.3 6.8 Madonna Sticky&Sweet_Tour The_USA 20
+Pop This_was_the_seventh_concert_tour_by_Pink_in_support_of_her_seventh_studio_album. 2018 76.4 6.3 Pink Beautiful_Trauma_World_Tour The_USA 18
+Pop This_tour_was_the_fourth_concert_tour_of_Bruno_Mars_in_support_of_his_third_studio_album. 2018 94.5 7.1 Bruno_Mars 24K_Magic_World_Tour The_USA 21

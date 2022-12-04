@@ -1,0 +1,10 @@
+Politics 10 4 2020 The_US_Senate_Acquits_Donald_Trump_of_Impeachment_Charges John_Roberts The_USA
+Politics 8 5 2021 Belarusians_Protest_for_Fair_and_Free_Elections Cora_Sanford Belarus
+Politics 7 7.5 2020 Tensions_Flare_Between_Iran_and_the_United_States Dylan_Soto The_USA
+Economics 9 6 2020 Oil_Prices_Tank Dayami_Berger Saudi_Arabia
+Politics 8 5.7 2020 Abraham_Accords_Signed Cooper_Hall Middle_East
+Social_Politics 7 7.3 2021 The_Killing_of_George_Floyd Paulina_Page The_USA
+Environmental_Science 6 6.8 2021 Climate_Disruptions_Continue Oswaldo_Turner Worldwide
+Economics 7 5.8 2020 China_Asserts_Itself Kassandra_Charles China
+Politics 5 7 2020 Joe_Biden_Wins_the_Presidency Marlene_Curry The_USA
+Health_Issues 10 8 2019 The_COVID19_Pandemic Nathaniel_Casey Worldwide
